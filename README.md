@@ -18,3 +18,4 @@ leetcode/
 | 15 | [3Sum](./leetcode/15-3sum/index.ts) | Medium | O(n²) | O(n) |
 | 39 | [Combination Sum](./leetcode/39-combincation-sum/index.ts) | Medium | O(2^(t/m)) | O(t/m) |
 | 128 | [Longest Consecutive Sequence](./leetcode/128-longest-consecutive-sequence/index.ts) | Medium | O(n) | O(n) |
+| 424 | [Longest Repeating Character Replacement](./leetcode/424-longest-repeating-character-replacement/index.ts) | Medium | O(n) | O(1) |
