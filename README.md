@@ -29,6 +29,7 @@ leetcode/
 | 257  | [Binary Tree Paths](./leetcode/257-binary-tree-paths/index.ts)                                                                        | Easy       | O(n·h)      | O(h)      |
 | 392  | [Is Subsequence](./leetcode/392-is-subsequence/index.ts)                                                                              | Easy       | O(n)        | O(1)      |
 | 424  | [Longest Repeating Character Replacement](./leetcode/424-longest-repeating-character-replacement/index.ts)                            | Medium     | O(n)        | O(1)      |
+| 572  | [Subtree of Another Tree](./leetcode/572-subtree-of-another-tree/index.ts)                                                            | Easy       | O(m·n)      | O(h)      |
 | 1358 | [Number of Substrings Containing All Three Characters](./leetcode/1358-number-of-substrings-containing-all-three-characters/index.ts) | Medium     | O(n)        | O(1)      |
 | 2625 | [Flatten Deeply Nested Array](./leetcode/2625-flatten-deeply-nested-array/index.tsx)                                                  | Medium     | O(n)        | O(n+d)    |
 
