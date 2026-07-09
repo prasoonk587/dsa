@@ -33,6 +33,7 @@ leetcode/
 | 637  | [Average of Levels in Binary Tree](./leetcode/637-average-of-levels-in-binary-tree/index.ts)                                         | Easy       | O(n)        | O(h)      |
 | 643  | [Maximum Average Subarray I](./leetcode/643-maximum-average-subarray-i/index.ts)                                                     | Easy       | O(n)        | O(1)      |
 | 704  | [Binary Search](./leetcode/704-binary-search/index.ts)                                                                               | Easy       | O(log n)    | O(1)      |
+| 744  | [Find Smallest Letter Greater Than Target](./leetcode/744-find-smallest-letter-greater-than-target/index.ts)                         | Easy       | O(n)        | O(1)      |
 | 876  | [Middle of the Linked List](./leetcode/876-middle-of-the-linked-list/index.ts)                                                       | Easy       | O(n)        | O(1)      |
 | 1358 | [Number of Substrings Containing All Three Characters](./leetcode/1358-number-of-substrings-containing-all-three-characters/index.ts) | Medium     | O(n)        | O(1)      |
 | 2625 | [Flatten Deeply Nested Array](./leetcode/2625-flatten-deeply-nested-array/index.tsx)                                                  | Medium     | O(n)        | O(n+d)    |
