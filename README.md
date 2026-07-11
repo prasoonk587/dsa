@@ -36,6 +36,7 @@ leetcode/
 | 744  | [Find Smallest Letter Greater Than Target](./leetcode/744-find-smallest-letter-greater-than-target/index.ts)                         | Easy       | O(n)        | O(1)      |
 | 876  | [Middle of the Linked List](./leetcode/876-middle-of-the-linked-list/index.ts)                                                       | Easy       | O(n)        | O(1)      |
 | 1358 | [Number of Substrings Containing All Three Characters](./leetcode/1358-number-of-substrings-containing-all-three-characters/index.ts) | Medium     | O(n)        | O(1)      |
+| 2022 | [Convert 1D Array Into 2D Array](./leetcode/2022-convert-1d-array-into-2d-array/index.ts)                                            | Easy       | O(m·n)      | O(m·n)    |
 | 2625 | [Flatten Deeply Nested Array](./leetcode/2625-flatten-deeply-nested-array/index.tsx)                                                  | Medium     | O(n)        | O(n+d)    |
 
 ## Concepts
