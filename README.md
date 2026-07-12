@@ -18,6 +18,7 @@ leetcode/
 | 6    | [Zigzag Conversion](./leetcode/6-zigzag-conversion/index.ts)                                                                          | Medium     | O(n)        | O(n)      |
 | 15   | [3Sum](./leetcode/15-3sum/index.ts)                                                                                                   | Medium     | O(n²)       | O(n)      |
 | 54   | [Spiral Matrix](./leetcode/54-spiral-matrix/index.ts)                                                                                 | Medium     | O(m·n)      | O(m·n)    |
+| 24   | [Swap Nodes in Pairs](./leetcode/24-swap-nodes-in-pairs/index.ts)                                                                     | Medium     | O(n)        | O(1)      |
 | 39   | [Combination Sum](./leetcode/39-combincation-sum/index.ts)                                                                            | Medium     | O(2^(t/m))  | O(t/m)    |
 | 303  | [Range Sum Query - Immutable](./leetcode/303-range-sum-query-immutable/index.ts)                                                      | Easy       | O(n) / O(1) | O(n)      |
 | 322  | [Coin Change](./leetcode/322-coin-change/index.ts)                                                                                    | Medium     | O(amount·n) | O(amount) |
