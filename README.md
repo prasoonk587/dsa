@@ -46,5 +46,6 @@ Exploratory files covering data structures and patterns.
 
 | Topic        | File                                                   |
 | ------------ | ------------------------------------------------------ |
-| Set          | [concepts/Set.ts](./concepts/Set.ts)                   |
-| EventEmitter | [concepts/EventEmitter.ts](./concepts/EventEmitter.ts) |
+| Set             | [concepts/Set.ts](./concepts/Set.ts)                               |
+| EventEmitter    | [concepts/EventEmitter.ts](./concepts/EventEmitter.ts)             |
+| InfiniteCurrying | [concepts/InfiniteCurrying.ts](./concepts/InfiniteCurrying.ts)   |
