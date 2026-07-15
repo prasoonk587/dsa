@@ -53,3 +53,4 @@ Exploratory files covering data structures and patterns.
 | EventEmitter    | [concepts/EventEmitter.ts](./concepts/EventEmitter.ts)             |
 | InfiniteCurrying | [concepts/InfiniteCurrying.ts](./concepts/InfiniteCurrying.ts)   |
 | LazyMan          | [concepts/LazyMan.ts](./concepts/LazyMan.ts)                     |
+| Rate Limiting    | [concepts/rateLimiting.ts](./concepts/rateLimiting.ts)           |
