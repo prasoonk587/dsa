@@ -20,6 +20,7 @@ leetcode/
 | 46   | [Permutations](./leetcode/46-permutations/index.ts)                                                                                   | Medium     | O(n!·n)     | O(n)      |
 | 54   | [Spiral Matrix](./leetcode/54-spiral-matrix/index.ts)                                                                                 | Medium     | O(m·n)      | O(m·n)    |
 | 55   | [Jump Game](./leetcode/56-jump-game/index.ts)                                                                                         | Medium     | O(n)        | O(1)      |
+| 17   | [Letter Combinations of a Phone Number](./leetcode/17-letter-combinations-of-a-phone-number/index.ts)                                | Medium     | O(n·4^n)    | O(n)      |
 | 24   | [Swap Nodes in Pairs](./leetcode/24-swap-nodes-in-pairs/index.ts)                                                                     | Medium     | O(n)        | O(1)      |
 | 39   | [Combination Sum](./leetcode/39-combincation-sum/index.ts)                                                                            | Medium     | O(2^(t/m))  | O(t/m)    |
 | 303  | [Range Sum Query - Immutable](./leetcode/303-range-sum-query-immutable/index.ts)                                                      | Easy       | O(n) / O(1) | O(n)      |
