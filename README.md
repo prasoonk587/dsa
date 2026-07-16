@@ -55,3 +55,4 @@ Exploratory files covering data structures and patterns.
 | InfiniteCurrying | [concepts/InfiniteCurrying.ts](./concepts/InfiniteCurrying.ts)   |
 | LazyMan          | [concepts/LazyMan.ts](./concepts/LazyMan.ts)                     |
 | Rate Limiting    | [concepts/rateLimiting.ts](./concepts/rateLimiting.ts)           |
+| Async Task Queue | [concepts/asyncTaskQueue.ts](./concepts/asyncTaskQueue.ts)       |
