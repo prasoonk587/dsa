@@ -23,6 +23,7 @@ leetcode/
 | 17   | [Letter Combinations of a Phone Number](./leetcode/17-letter-combinations-of-a-phone-number/index.ts)                                | Medium     | O(n·4^n)    | O(n)      |
 | 24   | [Swap Nodes in Pairs](./leetcode/24-swap-nodes-in-pairs/index.ts)                                                                     | Medium     | O(n)        | O(1)      |
 | 39   | [Combination Sum](./leetcode/39-combincation-sum/index.ts)                                                                            | Medium     | O(2^(t/m))  | O(t/m)    |
+| 40   | [Combination Sum II](./leetcode/backtrack/index.ts)                                                                                   | Medium     | O(2^n)      | O(n)      |
 | 303  | [Range Sum Query - Immutable](./leetcode/303-range-sum-query-immutable/index.ts)                                                      | Easy       | O(n) / O(1) | O(n)      |
 | 322  | [Coin Change](./leetcode/322-coin-change/index.ts)                                                                                    | Medium     | O(amount·n) | O(amount) |
 | 128  | [Longest Consecutive Sequence](./leetcode/128-longest-consecutive-sequence/index.ts)                                                  | Medium     | O(n)        | O(n)      |
